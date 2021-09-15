@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, i'm SAeeD.
+
+> Backend and Frontend Developer.  
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=saeedboroo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedboroo&layout=compact)](https://github.com/saeedboroo/github-readme-stats)
 
 <!--
 **SaeedBoroo/SaeedBoroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
